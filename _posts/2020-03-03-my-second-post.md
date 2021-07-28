@@ -8,14 +8,3 @@ image: /assets/images/posts/random-img.jpg
 
 #Comandos Basicos Docker
 
-Example with image:
-
-![Error](@@baseUrl@@/assets/images/posts/error.png)
-
-Example code block:
-
-```js
-function myFunction() {
-  return true;
-}
-```
