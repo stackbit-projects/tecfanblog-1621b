@@ -1,0 +1,26 @@
+stackbitVersion: ~0.3.0
+ssgName: nextjs
+nodeVersion: '12'
+publishDir: out
+pagesDir: _posts
+models:
+  post:
+    type: page
+    label: Post
+    match: '*'
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: string
+        name: description
+        label: Description
+      - type: date
+        name: date
+        label: Date
+      - type: date
+        name: modified_date
+        label: Modified Date
+      - type: image
+        name: image
+        label: Image
