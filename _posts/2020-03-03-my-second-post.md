@@ -7,5 +7,5 @@ image: /assets/images/posts/random-img.jpg
 ---
 
 ## Comandos Basicos de Docker
-### Subtítulo
+### En este post veremos los comandos basicos de docker
 
