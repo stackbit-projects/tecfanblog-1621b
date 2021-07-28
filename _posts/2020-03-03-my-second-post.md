@@ -6,7 +6,7 @@ modified_date: '2020-03-03'
 image: /assets/images/posts/random-img.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#Comandos Basicos Docker
 
 Example with image:
 
